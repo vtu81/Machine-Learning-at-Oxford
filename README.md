@@ -9,4 +9,4 @@ This repository contains my code for practicals (or projects/labs) of [Machine L
 
   Comparing Naive Bayes Classifiers with Logistic Regression Classifiers. See [practical2/practical2.pdf](practical2/practical2.pdf) and paper [*On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes*](https://proceedings.neurips.cc/paper/2001/hash/7b7a53e239400a13bd6be6c91c4f6c4e-Abstract.html) for more details.
 
-- [ ] Practical 3
+- [x] Practical 3 **CNN for MNIST**

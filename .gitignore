@@ -1,1 +1,3 @@
 .DS_Store
+practical3/MNIST/*
+!practical3/MNIST/.dummy
